@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+.divWrapper{
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  min-height: 100px;
+}
